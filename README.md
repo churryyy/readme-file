@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jan Ed Paulo Figueroa</h1>
 <h3 align="justify">I am currently a student with a passion for programming; I love learning and discovering new things. I pursue programming because when I was a kid, I was curious about how technology works, especially for personal computers or PCs. I am enhancing my skills and knowledge in programming, especially languages like C++ and Python.</h3>
 
+<img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="1280" height="720" />
+
 ## <h3 align="left">Hobbies:</h3>
 - Playing Games
 - Messing with my computer 
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href = " discordapp.com/users/781595455825772587">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <a href = "mailto:qjepafigueroa@tip.edu.ph">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
